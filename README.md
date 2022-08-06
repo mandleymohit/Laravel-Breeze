@@ -1,2 +1,2 @@
-# Laravel-Breeze-9.0
+# Laravel-Breeze
 Testing Laravel Breeze Functionality (UI, Authentication)
